@@ -14,7 +14,7 @@ body {
 }
 
 body .wrapper {
-  width: 90%;
+  width: 95%;
   margin: 0 auto;
 }
 
@@ -73,13 +73,13 @@ body .container-app input {
 }
 
 body .container-app .input-name, body .container-app .input-salary {
-  width: 70%;
+  width: 80%;
   margin: 0 auto;
   margin-bottom: 1rem;
 }
 
 body .container-app .input-main {
-  width: 70%;
+  width: 80%;
 }
 
 body .container-app .btn-submit, body .container-app .btn-submit-main {
@@ -94,7 +94,7 @@ body .container-app .btn-submit, body .container-app .btn-submit-main {
 }
 
 body .content-container, body .main-container {
-  width: 90%;
+  width: 95%;
   margin: 0 auto;
   -webkit-box-align: center;
       -ms-flex-align: center;
